@@ -2,7 +2,7 @@
 
 Este é um site de portfólio profissional moderno e responsivo, desenvolvido com as mais recentes tecnologias web.
 O site Está Disponível No Versel:
-https://curriculo-gabriel-pearl.vercel.app/
+https://gabriel-henrique.vercel.app
 
 ## 🚀 Tecnologias Utilizadas
 
