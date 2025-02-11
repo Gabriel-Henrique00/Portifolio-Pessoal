@@ -56,7 +56,7 @@ const About = () => {
       icon: Siren,
       items: [
         { name: "Trabalho em equipe", level: 90 },
-        { name: "Comunicação", level: 70 },
+        { name: "Comunicação", level: 100 },
         { name: "Adaptabilidade", level: 100 },
         { name: "Scrum", level: 80 },
         { name: "Kanban", level: 60 },
